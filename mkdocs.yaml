@@ -1,0 +1,6 @@
+site_name: standard-docs
+site_description: All Standard docs
+plugins:
+  - techdocs-core
+nav:
+  - Getting Started: index.md
